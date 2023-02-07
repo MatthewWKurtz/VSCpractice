@@ -4,6 +4,10 @@ p{
   font-size: 3rem;
 }
 
+img{
+  border: 1pt solid #707070;
+}
+
 .icon-list {
   padding-left: 0;
   list-style: none;
